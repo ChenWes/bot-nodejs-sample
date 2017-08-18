@@ -1,0 +1,24 @@
+{
+  "name": "bot-node-demo",
+  "version": "1.0.0",
+  "description": "first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "framework",
+    "nodejs"
+  ],
+  "author": "weschen",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "botbuilder": "^3.8.4",
+    "dotenv-extended": "^2.0.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "restify": "^5.0.0"
+  }
+}
